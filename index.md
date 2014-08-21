@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 Shiny Web-App will use kNN on the [Wisconsin Breast Cancer Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 * 30 Features
 * Different Scales for Each Feature in the 'No Scale' Data
-* Binary OUtcome of Benign or Cancerous
+* Binary Outcome of Benign or Cancerous
 
 --- class #id
 
@@ -42,7 +42,7 @@ Image from [kNN Wikipedia Entry](http://en.wikipedia.org/wiki/K-nearest_neighbor
 
 [Curse of Dimensionality Wikipedia Entry](http://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
-Example: Proporation of HyperSphere Volume (range of data point) to HyperCube Volume (Volume of Feature Space)
+Example: Proportion of HyperSphere Volume (range of data point) to HyperCube Volume (Volume of Feature Space)
 
 HyperSphere Vol = $\LARGE\frac{2 r^d \pi^{(d / 2)}}{d \Gamma(d / 2)}$
 
