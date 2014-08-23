@@ -42,7 +42,7 @@ Image from [kNN Wikipedia Entry](http://en.wikipedia.org/wiki/K-nearest_neighbor
 
 [Curse of Dimensionality Wikipedia Entry](http://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
-Example: Proportion of HyperSphere Volume (range of data point) to HyperCube Volume (Volume of Feature Space)
+Example: Proportion of HyperSphere Volume (range of data point) to HyperCube Volume (Volume of Feature Space) with radius r and number of dimsensions d
 
 HyperSphere Vol = $\LARGE\frac{2 r^d \pi^{(d / 2)}}{d \Gamma(d / 2)}$
 
